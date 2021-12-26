@@ -11,7 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b6f152-d91a-45be-94e2-dd74a4b667cd" name="Default Changelist" comment="    update fifth week" />
+    <list default="true" id="44b6f152-d91a-45be-94e2-dd74a4b667cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/第六周.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第六周.ipynb" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,19 @@
     <SUITE FILE_PATH="coverage/coding_training$test.coverage" NAME="test Coverage Results" MODIFIED="1630067094037" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/coding_training$sample.coverage" NAME="sample Coverage Results" MODIFIED="1630066400676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/coding_training$list_sort.coverage" NAME="list_sort Coverage Results" MODIFIED="1630066844507" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/第六周.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +72,7 @@
         <option value="$PROJECT_DIR$/第二周.ipynb" />
         <option value="$PROJECT_DIR$/第四周.ipynb" />
         <option value="$PROJECT_DIR$/第五周.ipynb" />
+        <option value="$PROJECT_DIR$/第六周.ipynb" />
       </list>
     </option>
   </component>
@@ -226,7 +242,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -331,13 +347,21 @@
       <option name="project" value="LOCAL" />
       <updated>1640077832020</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="    update six week">
+      <created>1640531559164</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1640531559164</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="69" y="25" width="1382" height="875" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2880597" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -373,7 +397,8 @@
     <MESSAGE value="update fourth week" />
     <MESSAGE value="update fifth week" />
     <MESSAGE value="    update fifth week" />
-    <option name="LAST_COMMIT_MESSAGE" value="    update fifth week" />
+    <MESSAGE value="    update six week" />
+    <option name="LAST_COMMIT_MESSAGE" value="    update six week" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/sword_offer.ipynb">
@@ -436,6 +461,13 @@
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
           <selected id="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/第六周.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="2" />
         </state>
       </provider>
     </entry>
