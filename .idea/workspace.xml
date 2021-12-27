@@ -91,7 +91,6 @@
     <option name="minorVersion" value="3" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="69" />
     <option name="y" value="25" />
     <option name="width" value="1382" />
     <option name="height" value="875" />
@@ -358,8 +357,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="69" y="25" width="1382" height="875" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="25" width="1382" height="875" extended-state="0" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2925373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
