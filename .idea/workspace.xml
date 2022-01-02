@@ -91,9 +91,10 @@
     <option name="minorVersion" value="3" />
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
     <option name="y" value="25" />
-    <option name="width" value="1382" />
-    <option name="height" value="875" />
+    <option name="width" value="2400" />
+    <option name="height" value="1406" />
   </component>
   <component name="ProjectId" id="22b0oPHxmVSvQemVHQHMtcRDq21" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
