@@ -11,9 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44b6f152-d91a-45be-94e2-dd74a4b667cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/第六周.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/第六周.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="44b6f152-d91a-45be-94e2-dd74a4b667cd" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -406,6 +404,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="56" y="25" width="1624" height="1025" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25537294" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
