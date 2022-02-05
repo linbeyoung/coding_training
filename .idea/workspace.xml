@@ -50,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/第八周.ipynb">
           <provider selected="true" editor-type-id="ipnb-editor">
             <state>
-              <selected id="3" />
+              <selected id="2" />
             </state>
           </provider>
         </entry>
@@ -107,10 +107,10 @@
     <option name="majorVersion" value="2021" />
     <option name="minorVersion" value="3" />
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="56" />
     <option name="y" value="25" />
-    <option name="width" value="1625" />
+    <option name="width" value="1624" />
     <option name="height" value="1025" />
   </component>
   <component name="ProjectId" id="22b0oPHxmVSvQemVHQHMtcRDq21" />
@@ -123,6 +123,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -134,7 +135,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -403,9 +403,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="25" width="1625" height="1025" extended-state="6" />
+    <frame x="56" y="25" width="1624" height="1025" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2583702" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26169404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -418,8 +419,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5009476" side_tool="true" visible="true" weight="0.46494067" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49905244" visible="true" weight="0.46494067" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5012642" side_tool="true" visible="true" weight="0.46494067" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" sideWeight="0.4987358" visible="true" weight="0.46494067" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
